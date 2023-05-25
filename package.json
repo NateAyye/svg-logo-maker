@@ -1,8 +1,19 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
+  "author": "Nathan A Cuevas",
+  "license": "MIT",
   "description": "CLI to generate a simple Logo for mocking up sites so developers don't have to worry about Scrounging/paying for a logo.",
+  "keywords": [
+    "CLI",
+    "SVG",
+    "Generator"
+  ],
   "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "bin": {
     "svgen": "index.js",
     "svg-logo-maker": "index.js"
@@ -10,13 +21,6 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [
-    "CLI",
-    "SVG",
-    "Generator"
-  ],
-  "author": "Nathan A Cuevas",
-  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
