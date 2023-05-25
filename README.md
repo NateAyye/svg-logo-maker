@@ -1,6 +1,6 @@
 # SVG-LOGO-MAKER
 
-![GitHub](https://img.shields.io/github/license/NateAyye/svg-logo-maker)
+![GitHub](https://img.shields.io/github/license/NateAyye/svg-logo-maker?label=License)
 
 ## Description
 
@@ -58,6 +58,14 @@ npx svg-logo-maker
 It will start prompting you with 4 simple questions in order to generate an svg within the current working directory.
 
 ### Examples
+
+Generating a Square Logo with `npx svg-logo-maker`
+
+![Using npx svg-logo-maker to generate an SVG](./public/images/npx-svg-logo-maker.gif)
+
+Generating a Triangle Logo with `npx svgen`
+
+![Using npx svgen to generate an SVG](./public/images/npx-svgen.gif)
 
 ## Contribution
 
