@@ -61,11 +61,11 @@ It will start prompting you with 4 simple questions in order to generate an svg 
 
 Generating a Square Logo with `npx svg-logo-maker`
 
-![Using npx svg-logo-maker to generate an SVG](public/images/npx-svg-logo-maker.gif)
+![Using npx svg-logo-maker to generate an SVG](npx-svg-logo-maker.gif)
 
 Generating a Triangle Logo with `npx svgen`
 
-![Using npx svgen to generate an SVG](public/images/npx-svgen.gif)
+![Using npx svgen to generate an SVG](npx-svgen.gif)
 
 ## Contribution
 
