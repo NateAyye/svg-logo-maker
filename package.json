@@ -4,7 +4,8 @@
   "description": "CLI to generate a simple Logo for mocking up sites so developers don't have to worry about Scrounging/paying for a logo.",
   "main": "index.js",
   "bin": {
-    "svgen": "index.js"
+    "svgen": "index.js",
+    "svg-logo-maker": "index.js"
   },
   "scripts": {
     "test": "jest"
