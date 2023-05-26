@@ -1,6 +1,6 @@
 {
   "name": "svg-logo-maker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Nathan A Cuevas",
   "license": "MIT",
   "description": "CLI to generate a simple Logo for mocking up sites so developers don't have to worry about Scrounging/paying for a logo.",

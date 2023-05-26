@@ -31,6 +31,8 @@ npm install -g svg-logo-maker
 
 ## Usage
 
+[&#x21e8; Open Example Video In Browser &#x21e6;](https://drive.google.com/file/d/1IHOGMeqCyTsCzFrO7-yvE2cQbYuLYNE8/view?usp=sharing)
+
 If You have it installed globally(not recommended to have it installed per project) run:
 
 ```shell
@@ -55,6 +57,8 @@ OR
 npx svg-logo-maker
 ```
 
+[Using the npx Command Example](https://drive.google.com/file/d/1YJkcGUfksxDBiMXteYFj5bhcapTUjcn4/view?usp=sharing)
+
 It will start prompting you with 4 simple questions in order to generate an svg within the current working directory.
 
 ### Examples
@@ -68,6 +72,12 @@ Generating a Triangle Logo with `npx svgen`
 ![Using npx svgen to generate an SVG](https://github.com/NateAyye/svg-logo-maker/blob/main/public/npx-svgen.gif?raw=true)
 
 ## Contribution
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 Basic Rules for contributing to this repo are gonna be held to standards with the [Contributor Convenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Standards.
 
