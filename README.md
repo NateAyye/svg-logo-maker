@@ -71,6 +71,9 @@ Generating a Triangle Logo with `npx svgen`
 
 ![Using npx svgen to generate an SVG](https://github.com/NateAyye/svg-logo-maker/blob/main/public/npx-svgen.gif?raw=true)
 
+> Example Generated SVG
+> ![Example SVG](https://github.com/NateAyye/svg-logo-maker/blob/main/example/logo.svg)
+
 ## Contribution
 
 1. Fork it!
